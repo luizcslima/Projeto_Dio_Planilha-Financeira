@@ -31,8 +31,10 @@ Acesso à plataforma: [DIO](https://dio.me)
 ## Passo-a-Passo
 
 > 1️⃣  **AÇÃO #1 - [Excel] - Edição da pasta de trabalho:**
->
-> 2️⃣ **PROMPT #1 [COPILOT], [ChatGPT - Solicitação de insights sobre os dados:**
+>.
+<br/>
+
+> 2️⃣ **PROMPT #1 [COPILOT], [ChatGPT] - Solicitação de insights sobre os dados:**
 > .
 <br/>
 
@@ -49,8 +51,10 @@ O resultado do presente trabalho foi o conteúdo presente nesse arquivo readme.m
 
 
 ## Discussão 📑
+<p align="justify">
 
 
+</p>
 
 ## Conclusão 📝💡
 <p align="justify">
