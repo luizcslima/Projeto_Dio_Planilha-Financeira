@@ -20,7 +20,6 @@ Acesso à plataforma: [DIO](https://dio.me)
 
 ## Tecnologias utilizadas no projeto 💻
 
-- [ChatGPT](https://chat.openai.com/) -- Geração de insights
 - [Copilot](https://copilot.microsoft.com/) -- Geração de insights
 - [Excel](https://www.microsoft.com/en/microsoft-365/excel) -- Ferramenta de edição de planilhas eletrônicas
 
@@ -50,12 +49,16 @@ Acesso à plataforma: [DIO](https://dio.me)
 >> - Dashboard_Financeiro --> Criação dos gráficos dinâmicos, slicers e linha do tempo. 
 <br/>
 
->> ℹ️ **NOTA_3:** A ideia é utilizar o dashboard em um zoom que permida a visualização de todos os slicers e o o gráfico de fluxo de caixa. Caso o usuário necessite ver algum detalhes extra, ele pode descer a barra de rolagem. Um período adequado de uso seria o de 1 ano, períodos mais extensos podem impactar na visualização do dashboard.
+>> ℹ️ **NOTA_3:** A ideia é utilizar o dashboard em um zoom que permida a visualização de todos os slicers e o o gráfico de fluxo de caixa. Caso o usuário necessite ver algum detalhes extra, ele pode descer a barra de rolagem. Um período adequado de uso seria o de 1 ano, períodos mais extensos podem impactar na visualização do dashboard. <br/>
 >> ℹ️ **NOTA_4:** Alguns dados foram inseridos na planilha "Formatação em Tabela" a fim de testar se a atualização automática do power query, tabelas dinâmicas e o dashboard estavam funcionando adequadamente. Lembre-se sempre de utilizar o "Atualizar Tudo" na aba "Dados" para garantir que as informações das tabelas e gráficos estejam atualizadas.
 <br/>
 
-> 2️⃣ **PROMPT #1 [COPILOT], [ChatGPT] - Solicitação de insights sobre os dados:**
-> .
+> 2️⃣ **PROMPT #1 [COPILOT] - Solicitação de insights sobre os dados:**
+> Contexto: Copilot/ChatGPT, você agora é um coaching financeiro e especialista em finanças, planilhas, excel, elaboração de dashboards, estatística e análise de tendências.
+Função: Utilizar a tabela de dados contida no documento anexado, como base de conhecimentos e gerar insights.
+Tópico: Planejamento financeiro.
+Ação: Gerar insights sobre os dados.
+Expectativa: >Forneça análises estatísticas relevantes >Forneça dados relevantes >Forneça insights práticos relevantes >Forneça ações que o usuário deve tomar de imediato."
 <br/>
 
 > 3️⃣ **AÇÃO #2 - Documentação final do projeto:**
@@ -66,8 +69,53 @@ Acesso à plataforma: [DIO](https://dio.me)
 
 ## Resultados 🔎📊
 <p align="justify">
-O resultado do presente trabalho foi o conteúdo presente nesse arquivo readme.md e o arquivo excel "", que se encontra na pasta "outputs" de respositório. <br/>
-Os ícones utilizados no e-book encontram-se na past "assets".
+O resultado do presente trabalho foi o conteúdo presente nesse arquivo readme.md e o arquivo excel "Projeto DIO - Planilha Financeira - Luiz Lima", que se encontra na pasta "outputs" de respositório. <br/>
+Os ícones utilizados no e-book encontram-se na past "assets".<br/>
+  
+>**Reposta prompt [Copilot]:** <br/>
+>Fantástico! Vamos analisar esses dados para proporcionar insights valiosos e ações práticas. Vamos começar com algumas análises estatísticas:
+>
+>### Análises Estatísticas Relevantes:
+>1. **Receitas Totais**: O valor total de entradas foi de **R$ 18.500,00**, com as seguintes contribuições:
+>   - Salário Mensal: R$ 15.000,00
+>   - Dividendos de Ações: R$ 800,00
+>   - Projeto Freelancer: R$ 1.200,00
+>   - Venda de Equipamentos Eletrônicos: R$ 1.500,00
+>
+>2. **Despesas Totais**: O valor total de saídas foi de **R$ 14.720,00**, distribuído entre as seguintes categorias principais:
+>   - Alimentação: R$ 2.100,00
+>   - Transporte: R$ 1.100,00
+>   - Lazer: R$ 700,00
+>   - Saúde: R$ 1.060,00
+>   - Educação: R$ 1.100,00
+>   - Vestuário: R$ 2.100,00
+>   - Eletrônicos: R$ 3.200,00
+>   - Utilidades Domésticas: R$ 1.950,00
+>   - Presentes: R$ 1.080,00
+>   - Beleza: R$ 550,00
+>   - Pet Care: R$ 350,00
+>   - Viagem: R$ 1.250,00
+>   - Gastronomia: R$ 570,00
+>
+>3. **Saldo Liquido**: O saldo líquido das transações durante o período é de **R$ 3.780,00**.
+>
+>### Dados Relevantes:
+>- **Maior Despesa**: Compra de novo smartphone em 23/09/2024, no valor de R$ 1.500,00.
+>- **Maior Receita**: Salário mensal, recebendo R$ 5.000,00 em três ocasiões em 01/08, 01/09 e 01/10.
+>- **Despesas Pendente**: R$ 8.630,00 ainda estão pendentes.
+>
+>### Insights Práticos Relevantes:
+>1. **Controle de Gastos em Eletrônicos**: Há uma alta quantidade de despesas com eletrônicos. Revisar a necessidade destes gastos frequentes pode ajudar a poupar.
+>2. **Despesa com Pendente**: Grande parte das despesas pendentes é preocupante. Tentar minimizar despesas ou efetuar os pagamentos para evitar juros futuros.
+>3. **Categoria de Transporte**: A categoria de transporte é relativamente alta. Avaliar a possibilidade de reduzir a frequência destes gastos, ou explorar alternativas mais economicas.
+>
+>### Ações Imediatas:
+>1. **Priorize Pagamentos Pendentes**: Concentre-se em realizar os pagamentos pendentes para evitar penalidades adicionais.
+>2. **Reveja Gastos em Eletrônicos**: Tente adiar novas comprar eletrônicas grandes, e veja se consegue evitar.
+>3. **Ajuste de Orçamento**: Considere ajustar o orçamento alocado em categorias com maiores despesas, como Eletrônicos e Vestuário, para poupar mais e reduzir contas futuras.
+>
+>Estes insights e ações te ajudarão a ter um controle mais eficiente das suas finanças e também a poupar para o futuro! Se precisar de mais detalhes ou ajuda com planilhas e dashboards, estou a disposição.
+  
 </p>
 
 
