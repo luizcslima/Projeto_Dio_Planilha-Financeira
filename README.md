@@ -118,17 +118,18 @@ Os ícones utilizados no e-book encontram-se na past "assets".<br/>
   
 </p>
 
-
 ## Discussão 📑
 <p align="justify">
-
-
+Ao preparar a planilha financeira, devido a não utilização de IA para fazer o trabalho/projeto, a elaboração contou muito com a experiência prévia do autor na ferramenta Excel, que guiou-se apenas pela ideia básica dos vídeos e a base de dados fornecidos pela DIO para a elaboração dos resultados finais. Não houve muita inovação no processo. <br/>
+A planilha atende às expectativas básicas de um indivíduo que deseja acompanhar seu fluxo de caixa ao longo de um determinado período de tempo, de uma forma mais visual e com alguns filtros práticos.<br/>
+Quanto ao uso da IA (Copilot) para a geração de insighits, pode-se observar que a ferramenta forneceu um panorama abrangente sobre os hábitos de renda e gastos de um indivíduo ao longo de três meses. Pontos ressaltados foram a estabilidade das fontes de receita, áreas de oportunidades significativas para otimização de despesas e algumas recomendações. <br/>
+Com o refino adequado dos prompts, acredita-se que seja possível obter insights mais valiosos, o que permitiria a uma pessoa iniciando em finanças / planejamento financeiro conseguir se organizar financeiramente de uma forma mais robusta, encurtando a curva de aprendizado. 
 </p>
 
 ## Conclusão 📝💡
 <p align="justify">
-
-
+Conclui-se que, embora a planilha financeira desenvolvida sem o uso de inteligência artificial tenha cumprido seu propósito básico de acompanhar o fluxo de caixa de maneira visual e prática, o uso de ferramentas de IA, como o Copilot, demonstrou ser uma ferramenta interessante no processo de análise e geração de insights financeiros. A experiência do autor no Excel foi essencial para estruturar a planilha e alcançar os resultados esperados. No entanto, a IA mostrou-se capaz de identificar padrões e oportunidades de otimização que podem passar despercebidos em uma abordagem manual. <br/>
+Além disso, a possibilidade de refinar os prompts para obter insights ainda mais específicos sugere que, com o uso contínuo e aprimorado de IA, é possível não apenas acelerar a curva de aprendizado, mas também capacitar iniciantes em planejamento financeiro a tomar decisões mais informadas e estratégicas. Assim, a integração de habilidades humanas e tecnologia emerge como uma abordagem complementar e eficiente para melhorar a gestão financeira pessoal de forma significativa.
 </p>
 
 ## Referências Úteis 📚
