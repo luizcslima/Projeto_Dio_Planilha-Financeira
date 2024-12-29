@@ -30,8 +30,22 @@ Acesso à plataforma: [DIO](https://dio.me)
 
 ## Passo-a-Passo
 
-> 1️⃣  **AÇÃO #1 - [Excel] - Edição da pasta de trabalho:**
->.
+> ℹ️ **NOTA_2:** Normalmente é necessário um planejamento da planilha/dashboard a ser preparado, como se desenhará a análise de dados, quais as métricas que se quer analisar e relacionados. No entanto, como os vídeos da DIO já direcionaram o que é esperado e forneceram uma base de dados consistente, o processo de passo-a-passo será, em partes, simplificado. Lembre-se sempre de planejar o trabalho que será feito em um arquivo de excel, sendo os requerimentos de usuário um guia importante para isso.
+<br/>
+
+> 1️⃣  **AÇÃO #1 - [Excel] - Edição da pasta de trabalho:** </br>
+> 1a - Criação de cópia da pasta de trabalho; </br>
+> 1b - Renomear a pasta de trabalho copiada com um nome intuitivo do que se pretende fazer "Projeto DIO - Planilha Financeira - Luiz Lima";  </br>
+> 1c - Renomear a planilha que contém os dados como "RAW" (indicará que é a planilha com os dados brutos);  </br>
+> 1d - Copiar a planilha "RAW" e providenciar um nome intuitivo do que está sendo feito com a base de dados:  </br>
+>> - Formatação em Tabela --> Organização, entendimento dos campos, nomeação da tabela ("tbl_Gastos");
+>> - tbl_Gastos_PQ --> Automatização da tarefa de organização, limpeza e formatação dos dados (conforme mencionado na NOTA_2, a base de dados já veio bem consistente e guiada pelos vídeos da DIO, mas, em outras circustâncias, o passo do power query ajudaria bastante na identificação de dados problemáticos e também na "automatização" do passo de apêndice de novos dados). No caso, houve a criação de um identificador único por transação, criação das colunas "MÊS", "ANO" a "VALOR_FLUXO" (Coluna Condicional para gerar um valor negativo para as transações do tipo "SAÍDA") e a reorganização das colunas.
+>> - tbl_Gastos_TD --> Criação das tabelas dinâmicas para responder as perguntas que serão a base do dashboard final.
+>>> - Status da Transação
+>>> - Fluxo de Caixa
+>>> - Tipos de Transação
+>>> - Categoria de Gastos
+>>> - Descrição de Gastos 
 <br/>
 
 > 2️⃣ **PROMPT #1 [COPILOT], [ChatGPT] - Solicitação de insights sobre os dados:**
