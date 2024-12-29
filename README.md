@@ -41,11 +41,11 @@ Acesso à plataforma: [DIO](https://dio.me)
 >> - Formatação em Tabela --> Organização, entendimento dos campos, nomeação da tabela ("tbl_Gastos");
 >> - tbl_Gastos_PQ --> Automatização da tarefa de organização, limpeza e formatação dos dados (conforme mencionado na NOTA_2, a base de dados já veio bem consistente e guiada pelos vídeos da DIO, mas, em outras circustâncias, o passo do power query ajudaria bastante na identificação de dados problemáticos e também na "automatização" do passo de apêndice de novos dados). No caso, houve a criação de um identificador único por transação, criação das colunas "MÊS", "ANO" a "VALOR_FLUXO" (Coluna Condicional para gerar um valor negativo para as transações do tipo "SAÍDA") e a reorganização das colunas.
 >> - tbl_Gastos_TD --> Criação das tabelas dinâmicas para responder as perguntas que serão a base do dashboard final.
->>> - Status da Transação
->>> - Fluxo de Caixa
->>> - Tipos de Transação
->>> - Categoria de Gastos
->>> - Descrição de Gastos 
+>>> - Status da Transação (pt_status)
+>>> - Fluxo de Caixa (pt_fluxoDeCaixa)
+>>> - Tipos de Transação (pt_transacao)
+>>> - Categoria de Gastos (pt_categoria)
+>>> - Descrição de Gastos (pt_descricao)
 <br/>
 
 > 2️⃣ **PROMPT #1 [COPILOT], [ChatGPT] - Solicitação de insights sobre os dados:**
