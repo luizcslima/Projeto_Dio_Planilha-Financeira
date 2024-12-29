@@ -20,10 +20,9 @@ Acesso à plataforma: [DIO](https://dio.me)
 
 ## Tecnologias utilizadas no projeto 💻
 
-- [ChatGPT](https://chat.openai.com/) -- Geração de conteúdo e imagens
-- [Copilot](https://copilot.microsoft.com/) -- Geração de conteúdo e imagens
+- [ChatGPT](https://chat.openai.com/) -- Geração de insights
+- [Copilot](https://copilot.microsoft.com/) -- Geração de insights
 - [Excel](https://www.microsoft.com/en/microsoft-365/excel) -- Ferramenta de edição de planilhas eletrônicas
-
 
 
 ## Passo-a-Passo
